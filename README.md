@@ -1,4 +1,4 @@
-## TinyCache
+## tinycache
 
 #### 项目介绍
 
